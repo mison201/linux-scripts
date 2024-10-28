@@ -22,8 +22,9 @@ This script helps you identify the largest files and directories within a specif
    ```bash
    chmod +x find_large_files.sh
 
-   3.	Run the script with the desired directory as an argument, or leave it blank to use the current directory:
    ```
+
+3. Run the script with the desired directory as an argument, or leave it blank to use the current directory:
 
 ./find_large_files.sh /path/to/directory
 
